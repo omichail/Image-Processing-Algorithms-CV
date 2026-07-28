@@ -47,4 +47,11 @@ The scripts require standard scientific Python libraries. Ensure you have Python
 ```bash
 pip install numpy scipy matplotlib pillow
 ```
-### 3. 
+### 3. Execute the code
+Run the main script to start the calculations and render the visualization:
+```
+python Image-Processing-Algorithm-1.py
+python Image-Processing-Algorithm-2.py
+```
+
+
