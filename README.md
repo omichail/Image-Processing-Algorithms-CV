@@ -27,13 +27,13 @@ The scripts successfully process raw image matrices, applying sequential mathema
 
 <p align="center">
   <b>Intensity Transformation</b><br><br>
-  <img src="assets/intens-transform.png" width="70%" alt="Histogram Transformation"><br><br>
+  <img src="assets/intens-transform.png" width="100%" alt="Histogram Transformation"><br><br>
   <sub>Original vs. Prepared image</sub>
 </p>
 
 <p align="center">
   <b>Edge Detection (Sobel)</b><br><br>
-  <img src="assets/sobel.png" width="70%" alt="Sobel Operator Edges"><br><br>
+  <img src="assets/sobel.png" width="100%" alt="Sobel Operator Edges"><br><br>
   <sub>Binary edge map generated using custom 3x3 and 5x5 kernels</sub>
 </p>
 
